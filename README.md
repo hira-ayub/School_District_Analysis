@@ -50,13 +50,26 @@ As we added the NAN in the Math & reading scores for ninth grade for Thomas High
 
 The scores by school spending did not change at all. 
 
+![School_Spending](Resources/School_Spending.PNG)
+
 •	Scores by school size
 
 The scores by school size did not change at all. 
+
+![School_Size](Resources/School_Size.PNG)
 
 •	Scores by school type
 
 The scores by school type did not change at all.
 
+![Score_By_School_Type](Resources/Score_By_School_Type.PNG)
+
 ## Summary
 
+There were changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+The district experienced a .3 percentage point decrease in percent of students passing reading.
+The district saw a .2 percentage point decrease in percent of students passing math.
+The 9th grade scores in the school data are now NaNs.
+Charter schools score higher in reading, math, and overall passing precentage.
+Large schools have the lowest Overall Passing precentage when compared to small and medium schools.
