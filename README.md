@@ -23,15 +23,15 @@ Scores by School Type
 #### How is the district summary affected?
 After the analysis, the district summary was not affected by much as the scores almost stayed the same with minor point difference.
 
- ![District_Summary](District_Summary.png)
+ ![District_Summary](District_Summary.PNG)
 
 #### How is the school summary affected?
 
 By adding the precentage column for match, reading & overall the result change for Thomas High school and it was now in top 5.
 
-![Thomas_School](Thomas_School.png)
+![Thomas_School](Thomas_School.PNG)
 
-![Thomas_10th_12th](Thomas_10th_12th.png)
+![Thomas_10th_12th](Thomas_10th_12th.PNG)
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Overall Thomas High school performaning in Top 5 school it's becuse we dont have all the data from that school.
@@ -42,9 +42,9 @@ As we added the NAN in the Math & reading scores for ninth grade for Thomas High
 
 •	Math and reading scores by grade.
 
-![Math_Scores](Math_Scores.png)
+![Math_Scores](Math_Scores.PNG)
 
-![Reading_Scores](Reading_Scores.png)
+![Reading_Scores](Reading_Scores.PNG)
 
 •	Scores by school spending
 
